@@ -436,7 +436,7 @@ export const list2 = [
     cd_produto: 23456789456,
     nm_produto: "PILHA DURACELL PALITO AAA C/4UN ",
     ds_mascara: 23456789456,
-    qt_logico: 66496,
+    qt_logico: 50,
     ds_codigo_fornecedor: "PILHA DURACELL PALITO AAA C/4UN ",
     unidades_disponiveis: [
       {

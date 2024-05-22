@@ -8,8 +8,11 @@ const server = express();
 server.use(express.json());
 server.use(cors());
 server.use("/list", (req, res) => {
-
-  return res.json(list2)
+  const { cd_condicao } = req.query
+  return res.json(list2.map(it => ({
+    ...it,
+    nm_produto: `${cd_condicao} - ${it.nm_produto}`
+  })))
 });
 
 server.use("/header", (req, res) => {
