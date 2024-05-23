@@ -9,9 +9,16 @@ server.use(express.json());
 server.use(cors());
 server.use("/list", (req, res) => {
   const { cd_condicao } = req.query
+
+  const valueMultiplier = cd_condicao == 101024 ? 0.5 : 1
+
   return res.json(list2.map(it => ({
     ...it,
-    nm_produto: `${cd_condicao} - ${it.nm_produto}`
+    nm_produto: `${cd_condicao} - ${it.nm_produto}`,
+    unidades_disponiveis: it.unidades_disponiveis.map(unit => ({
+      ...unit,
+      vl_preco_unidade: unit.vl_preco_unidade * valueMultiplier,
+    }))
   })))
 });
 
