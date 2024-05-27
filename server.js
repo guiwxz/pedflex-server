@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import { list2 } from "./mocks/list.js";
-import { header } from "./mocks/header.js";
+import { header } from "./mocks/header.js"; import { lista, headerStevan } from "./mocks/stevan.js";
 
 const server = express();
 
@@ -10,7 +10,7 @@ server.use(cors());
 server.use("/list", (req, res) => {
   const { cd_condicao } = req.query
 
-  const valueMultiplier = cd_condicao == 101024 ? 0.5 : 1
+  const valueMultiplier = cd_condicao % 2 == 0 ? 0.2 : 1
 
   return res.json(list2.map(it => ({
     ...it,
@@ -24,7 +24,7 @@ server.use("/list", (req, res) => {
 
 server.use("/header", (req, res) => {
 
-  return res.json(header)
+  return res.json(headerStevan)
 });
 
 server.listen(process.env.PORT || 3333, () => {
