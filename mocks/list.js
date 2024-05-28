@@ -427,6 +427,8 @@ export const list = [
 
 export const list2 = [
   {
+    qt_max: 999999,
+    qt_min: 1,
     qt_multiplo: 3,
     qt_padrao: null,
     cd_lista_transmissao: 345,
@@ -478,6 +480,8 @@ export const list2 = [
     cd_marca: 4,
   },
   {
+    qt_max: null,
+    qt_min: 1,
     qt_multiplo: null,
     qt_padrao: 5,
     cd_lista_transmissao: 346,
@@ -529,6 +533,8 @@ export const list2 = [
     cd_marca: 4,
   },
   {
+    qt_max: 10,
+    qt_min: 1,
     qt_multiplo: null,
     qt_padrao: null,
     cd_lista_transmissao: 1232,
@@ -580,6 +586,8 @@ export const list2 = [
     cd_marca: 4,
   },
   {
+    qt_max: null,
+    qt_min: null,
     qt_multiplo: null,
     qt_padrao: null,
     cd_lista_transmissao: 123322,
