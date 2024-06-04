@@ -108,13 +108,13 @@ export const headerStevan = {
   listasDisponiveis: [
     {
       cd_lista_transmissao: 1,
-      nm_lista_transmissao: 'teste lucas',
+      nm_lista_transmissao: 'Arraiá de ofertas',
       ds_lista_transmissao: 'teste',
       dt_inicio: '2024-05-01 00:00:00',
       dt_termino: '2024-05-31 23:59:00',
       dt_lista_transmissao: '2024-05-03',
       ds_banner:
-        'https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_pulmer/lista-transmissao/1/banner/CfoGL4at4SAPagqNQds15swtODcsmSJW1JCrfp3Z.png',
+        'https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_tiscoski/lista-transmissao/379/banner/riXBDDpv1cN0aJkAHnzkYix9ezkdZY5a1etXvuIv.png',
       ds_banner_reduzido: null,
     },
     {
@@ -124,9 +124,41 @@ export const headerStevan = {
       dt_inicio: '2024-05-09 00:00:00',
       dt_termino: '2024-06-05 23:59:00',
       dt_lista_transmissao: '2024-05-23',
-      ds_banner: null,
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
       ds_banner_reduzido: null,
     },
+    {
+      cd_lista_transmissao: 3,
+      nm_lista_transmissao: 'Arraiá de ofertas',
+      ds_lista_transmissao: 'teste',
+      dt_inicio: '2024-05-01 00:00:00',
+      dt_termino: '2024-05-31 23:59:00',
+      dt_lista_transmissao: '2024-05-03',
+      ds_banner:
+        'https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_tiscoski/lista-transmissao/379/banner/riXBDDpv1cN0aJkAHnzkYix9ezkdZY5a1etXvuIv.png',
+      ds_banner_reduzido: null,
+    },
+    {
+      cd_lista_transmissao: 4,
+      nm_lista_transmissao: 'outro teste',
+      ds_lista_transmissao: 'aaaa',
+      dt_inicio: '2024-05-09 00:00:00',
+      dt_termino: '2024-06-05 23:59:00',
+      dt_lista_transmissao: '2024-05-23',
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
+      ds_banner_reduzido: null,
+    },
+    {
+      cd_lista_transmissao: 5,
+      nm_lista_transmissao: 'outro teste',
+      ds_lista_transmissao: 'aaaa',
+      dt_inicio: '2024-05-09 00:00:00',
+      dt_termino: '2024-06-05 23:59:00',
+      dt_lista_transmissao: '2024-05-23',
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
+      ds_banner_reduzido: null,
+    },
+
   ],
   vendedoresCliente: [],
   arrCores: [
