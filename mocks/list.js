@@ -476,7 +476,7 @@ export const list2 = [
     qt_pagina: 20,
     cd_unidade_padrao: 1,
     ds_imagem_produto:
-      "https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_tiscoski/produto/me0003743.jpg",
+      "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
     cd_marca: 4,
   },
   {
@@ -529,7 +529,7 @@ export const list2 = [
     qt_pagina: 20,
     cd_unidade_padrao: 1,
     ds_imagem_produto:
-      "https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_tiscoski/produto/me0003743.jpg",
+      "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
     cd_marca: 4,
   },
   {
@@ -582,7 +582,7 @@ export const list2 = [
     qt_pagina: 20,
     cd_unidade_padrao: 1,
     ds_imagem_produto:
-      "https://s3.sa-east-1.amazonaws.com/efesus.braveo/efesus_braveo_tiscoski/produto/me0003743.jpg",
+      "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
     cd_marca: 4,
   },
   {

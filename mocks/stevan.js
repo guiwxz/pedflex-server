@@ -124,7 +124,7 @@ export const headerStevan = {
       dt_inicio: '2024-05-09 00:00:00',
       dt_termino: '2024-06-05 23:59:00',
       dt_lista_transmissao: '2024-05-23',
-      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
       ds_banner_reduzido: null,
     },
     {
@@ -145,7 +145,7 @@ export const headerStevan = {
       dt_inicio: '2024-05-09 00:00:00',
       dt_termino: '2024-06-05 23:59:00',
       dt_lista_transmissao: '2024-05-23',
-      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
       ds_banner_reduzido: null,
     },
     {
@@ -155,7 +155,7 @@ export const headerStevan = {
       dt_inicio: '2024-05-09 00:00:00',
       dt_termino: '2024-06-05 23:59:00',
       dt_lista_transmissao: '2024-05-23',
-      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D7MujB~IO1U2Ej~Zx2eMO4hnxUwMQ9Oj7-KS6qNYUAjMXpX18sz9SY2DLMh5ZTuzhLJBgeZmdivRsrf6yNLpHOvRes8c9dsX2Z2j4HZwlV3vPh-fPvYv4M7ne8oABEatZpz7SCkAhzrzhr0xjFHKVmrNBeULeXooAZEKOHSOapaXvNgA4S0NXpjKjJcZBQixiPE4F~ExHWq0fMj1nqODEirRMYY9cS1ojEdUcUqlcFbaI5DcPz4JV69T0ANiZI6QyvQZQ8MZziZqe0tHqeFPHPn3mMhA10IeLa0zt6o9msgnW6PWrppyz9A-Ts8~IdRJuV68bWDhLcRqBW8rwS8LGg__",
+      ds_banner: "https://s3-alpha-sig.figma.com/img/f9fc/b562/ff533f88a02a713121db07ca0a839d07?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nIjc6AQftRtqXWbh4Ipf~UCKR6cDj2KjWyNcNbmMoJ6FykWUj5gD2ZR1pUYLKEHqL9eMxzre6qzWWz9o1a9xQ2R7DhK8zaPxZqKhit1bHnUpR-OV5kPOnPwFQEJVVEXJvru3kDP1H9Wscr4eSvv-uQTVWR8tn4Z9qZCWZY9PVR6ZCzl03zJIOsTaMFrcND5zZRK4OrWSbiTny6B7gmCIuwd9p-i7HgK~JS673aTIQwI~U9gpHDUPntwFRrZ3Dj7aaCawD55ekXKU1wh0TwoaT92Awh~8Dl6SEnviOK2z98h8pJ1r-SvC7rpYc1Y9ikGbdN1xcGNtXb4oCAgYldxwUA__",
       ds_banner_reduzido: null,
     },
 
