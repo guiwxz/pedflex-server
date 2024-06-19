@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import { list2 } from "./mocks/list.js";
 import { header } from "./mocks/header.js"; import { lista, headerStevan } from "./mocks/stevan.js";
+import { combo } from "./mocks/combo.js";
 
 const server = express();
 
@@ -20,11 +21,17 @@ server.use("/list", (req, res) => {
       vl_preco_unidade: unit.vl_preco_unidade * valueMultiplier,
     }))
   })))
+
 });
 
 server.use("/header", (req, res) => {
 
   return res.json(headerStevan)
+});
+
+server.use("/combo", (req, res) => {
+
+  return res.json(combo)
 });
 
 server.listen(process.env.PORT || 3333, () => {
