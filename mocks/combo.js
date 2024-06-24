@@ -39,7 +39,7 @@ export const combo = {
           produtos: listaEditada,
         },
         {
-          cd_familia: '9043850',
+          cd_familia: '904385430',
           nm_familia: 'Always Noturno Suave 2',
           produtos: listaEditada2
         }
@@ -52,12 +52,12 @@ export const combo = {
       min_produtos: 19,
       familias: [
         {
-          cd_familia: '904385034',
+          cd_familia: '9043850334',
           nm_familia: 'Pampers 1',
           produtos: listaEditada3,
         },
         {
-          cd_familia: '904384350',
+          cd_familia: '9043843250',
           nm_familia: 'Pampers 12',
           produtos: listaEditada4
         }
