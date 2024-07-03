@@ -124,3 +124,40 @@ export const ListaNegociacao = {
     },
   ],
 };
+
+export const ListaNegociacao2 = {
+  lista_negociacao: [
+    {
+      cd_negociacao: 1230,
+      ds_negociacao: 'Promo 10',
+      ds_negociacao_ecommerce: 'Promo 10',
+      cd_grupo: null,
+      pr_desconto: 0,
+      qt_produto_prioritario: null,
+      vl_venda: null,
+      vl_maximo_venda: null,
+      id_libera_cliente_duplicado: null,
+      vl_investido: null,
+      vl_investimento: null,
+      qt_investido: null,
+      qt_investimento: null,
+      qt_minimo_itens: 3,
+      qt_maximo_produto: null,
+      produtos: [
+        {
+          pr_df: 35.27,
+          pr_dg: null,
+          cd_produto: 77690002456,
+          cd_negociacao: 1230,
+          id_obrigatorio: 1,
+          cd_unidade_medida: null,
+          qt_maxima_unitaria: 3,
+          qt_minima_unitaria: 3,
+          cd_unidade_desconto: 2,
+          id_contabiliza_prioritario: null,
+          id_bloqueia_desconto_unidade: null,
+        },
+      ],
+    },
+  ],
+};

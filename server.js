@@ -5,8 +5,11 @@ import { header } from './mocks/header.js';
 import { lista, headerStevan } from './mocks/stevan.js';
 import { combo } from './mocks/combo.js';
 import { lucasHeader } from './mocks/lucasHeader.js';
-import { lucasList } from './mocks/lucasList.js';
-import { ListaNegociacao } from './mocks/lucasListaNegociacao.js';
+import { lucasList, lucasList2 } from './mocks/lucasList.js';
+import {
+  ListaNegociacao,
+  ListaNegociacao2,
+} from './mocks/lucasListaNegociacao.js';
 
 const server = express();
 
@@ -25,8 +28,8 @@ server.use('/lista-produto', (req, res) => {
   //     vl_preco_unidade: unit.vl_preco_unidade * valueMultiplier,
   //   }))
   // })))
-
-  return res.json(lucasList);
+  const { cd_lista_transmissao } = req.query;
+  return res.json(cd_lista_transmissao == 476 ? lucasList2 : lucasList);
 });
 
 server.use('/header', (req, res) => {
@@ -34,7 +37,11 @@ server.use('/header', (req, res) => {
 });
 
 server.use('/lista-negociacao', (req, res) => {
-  return res.json(ListaNegociacao);
+  const { cd_lista_transmissao } = req.query;
+
+  return res.json(
+    cd_lista_transmissao == 476 ? ListaNegociacao2 : ListaNegociacao
+  );
 });
 
 server.use('/combo', (req, res) => {
