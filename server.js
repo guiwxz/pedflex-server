@@ -28,8 +28,9 @@ server.use('/lista-produto', (req, res) => {
   //     vl_preco_unidade: unit.vl_preco_unidade * valueMultiplier,
   //   }))
   // })))
-  const { cd_lista_transmissao } = req.query;
-  return res.json(cd_lista_transmissao == 476 ? lucasList2 : lucasList);
+  // const { cd_lista_transmissao } = req.query;
+  // return res.json(cd_lista_transmissao == 476 ? lucasList2 : lucasList);
+  return res.json(lucasList);
 });
 
 server.use('/header', (req, res) => {
@@ -37,11 +38,12 @@ server.use('/header', (req, res) => {
 });
 
 server.use('/lista-negociacao', (req, res) => {
-  const { cd_lista_transmissao } = req.query;
+  // const { cd_lista_transmissao } = req.query;
 
-  return res.json(
-    cd_lista_transmissao == 476 ? ListaNegociacao2 : ListaNegociacao
-  );
+  // return res.json(
+  //   cd_lista_transmissao == 476 ? ListaNegociacao2 : ListaNegociacao
+  // );
+  return res.json(ListaNegociacao);
 });
 
 server.use('/combo', (req, res) => {
