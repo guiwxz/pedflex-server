@@ -6,11 +6,11 @@ export const ListaNegociacao = {
       ds_negociacao_ecommerce: "DG MAIS VALE JUL'24",
       pr_dg: '2.00',
       pr_df: '0',
-      qt_produto_prioritario: null,
-      vl_minimo_venda: null,
-      vl_maximo_venda: null,
+      qt_produto_prioritario: 1,
+      vl_minimo_venda: 10.0,
+      vl_maximo_venda: 300.0,
       qt_minimo_produto: 1,
-      qt_maximo_produto: null,
+      qt_maximo_produto: 500,
       produtos: [
         {
           pr_df: 0,
@@ -22,7 +22,7 @@ export const ListaNegociacao = {
           qt_maxima_unitaria: null,
           qt_minima_unitaria: 1,
           cd_unidade_desconto: null,
-          id_contabiliza_prioritario: 0,
+          id_contabiliza_prioritario: 1,
           id_bloqueia_desconto_unidade: 0,
         },
         {
