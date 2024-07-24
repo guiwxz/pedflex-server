@@ -3,6 +3,9 @@ export const lucasList = {
   lista_produto: [
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: 3,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -71,6 +74,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -139,6 +145,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -207,6 +216,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -275,6 +287,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -343,6 +358,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -411,6 +429,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700093,
       nm_grupo_produto: 'PILHAS ALCALINAS',
@@ -479,6 +500,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: 2,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700058,
       nm_grupo_produto: 'FRALDAS PREMIUM',
@@ -532,6 +556,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -585,6 +612,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690002',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -638,6 +668,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -691,6 +724,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -744,6 +780,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690002',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -797,6 +836,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -850,6 +892,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -903,6 +948,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -956,6 +1004,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1009,6 +1060,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1062,6 +1116,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1115,6 +1172,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1168,6 +1228,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690004',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1221,6 +1284,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1274,6 +1340,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690002',
       cd_grupo_produto: 6700001,
       nm_grupo_produto: 'ABSORVENTES EXTERNOS',
@@ -1327,6 +1396,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700122,
       nm_grupo_produto: 'TRATAMENTOS CAPILARES',
@@ -1380,6 +1452,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700122,
       nm_grupo_produto: 'TRATAMENTOS CAPILARES',
@@ -1433,6 +1508,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700122,
       nm_grupo_produto: 'TRATAMENTOS CAPILARES',
@@ -1486,6 +1564,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700011,
       nm_grupo_produto: 'ANTISSEPTICOS BUCAIS',
@@ -1539,6 +1620,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700042,
       nm_grupo_produto: 'DESODORANTES STICK',
@@ -1592,6 +1676,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700042,
       nm_grupo_produto: 'DESODORANTES STICK',
@@ -1645,6 +1732,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -1699,6 +1789,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700042,
       nm_grupo_produto: 'DESODORANTES STICK',
@@ -1752,6 +1845,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -1805,6 +1901,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -1858,6 +1957,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -1911,6 +2013,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -1964,6 +2069,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -2017,6 +2125,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -2070,6 +2181,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690005',
       cd_grupo_produto: 6700040,
       nm_grupo_produto: 'DESODORANTES AEROSOIS',
@@ -2123,6 +2237,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700015,
       nm_grupo_produto: 'AP DEPILAR SISTEMAS',
@@ -2176,6 +2293,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2229,6 +2349,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2282,6 +2405,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2335,6 +2461,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2388,6 +2517,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2441,6 +2573,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690006',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2509,6 +2644,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690006',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2562,6 +2700,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690006',
       cd_grupo_produto: 6700014,
       nm_grupo_produto: 'AP DEPILAR DESCARTAVEIS',
@@ -2630,6 +2771,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690003',
       cd_grupo_produto: 6700013,
       nm_grupo_produto: 'AP BARBEAR SISTEMAS',
@@ -2683,6 +2827,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690000',
       cd_grupo_produto: 6700013,
       nm_grupo_produto: 'AP BARBEAR SISTEMAS',
@@ -2751,6 +2898,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690006',
       cd_grupo_produto: 6700013,
       nm_grupo_produto: 'AP BARBEAR SISTEMAS',
@@ -2804,6 +2954,9 @@ export const lucasList = {
     },
     {
       cd_lista_transmissao: 671,
+      qt_multiplo: null,
+      qt_produto_padrao: null,
+      qt_venda_minima: null,
       nr_ordem: '77690006',
       cd_grupo_produto: 6700013,
       nm_grupo_produto: 'AP BARBEAR SISTEMAS',
