@@ -10,6 +10,7 @@ import {
   ListaNegociacao,
   ListaNegociacao2,
 } from './mocks/lucasListaNegociacao.js';
+import { listaProdutosCombo } from './mocks/listaProdutosCombo.js';
 
 const server = express();
 
@@ -46,8 +47,12 @@ server.use('/lista-negociacao', (req, res) => {
   return res.json(ListaNegociacao);
 });
 
-server.use('/combo', (req, res) => {
+server.use('/lista-combo', (req, res) => {
   return res.json(combo);
+});
+
+server.use('/lista-produtos-combo', (req, res) => {
+  return res.json(listaProdutosCombo);
 });
 
 server.listen(process.env.PORT || 3333, () => {
