@@ -16,7 +16,20 @@ export const combo = {
           pr_geracao: 5,
         },
       ],
-      ga_ativados: [],
+      ga_ativados: [{
+        "cd_grupo_ativacao": 11112,
+        "cd_pessoa": 6132,
+        "cd_combo": 111,
+        "dt_mes": "2024-07-01",
+        "dt_ativacao": "2024-07-26",
+        "created_at": "2024-07-26T13:10:32",
+        "updated_at": "2024-07-29T15:55:09",
+        "qt_comprado": 24,
+        "qt_comprado_plus": 24,
+        "qt_minima": 1000,
+        "cd_categoria_combo": 1111,
+        "id_contabiliza": 0
+      }],
       categorias: [
         {
           cd_combo: 111,
