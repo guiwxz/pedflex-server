@@ -32,6 +32,11 @@ server.use('/lista-produto', (req, res) => {
   // const { cd_lista_transmissao } = req.query;
   // return res.json(cd_lista_transmissao == 476 ? lucasList2 : lucasList);
   return res.json(lucasList);
+
+  readFile('./produtos.txt', 'utf-8', (err, data) => {
+    if (err) throw err;
+    return res.json({ lista_produto: JSON.parse(data).slice(start, end) });
+  });
 });
 
 server.use('/header', (req, res) => {
@@ -45,6 +50,11 @@ server.use('/lista-negociacao', (req, res) => {
   //   cd_lista_transmissao == 476 ? ListaNegociacao2 : ListaNegociacao
   // );
   return res.json(ListaNegociacao);
+
+  readFile('./negociacao.txt', 'utf-8', (err, data) => {
+    if (err) throw err;
+    return res.json({ lista_produto: JSON.parse(data).slice(start, end) });
+  });
 });
 
 server.use('/lista-combo', (req, res) => {
@@ -57,8 +67,7 @@ server.use('/lista-produtos-combo', (req, res) => {
 
 server.listen(process.env.PORT || 3333, () => {
   console.log(
-    `⚡️[server]: Server is running at https://localhost:${
-      process.env.PORT || 3333
+    `⚡️[server]: Server is running at https://localhost:${process.env.PORT || 3333
     }`
   );
 });
