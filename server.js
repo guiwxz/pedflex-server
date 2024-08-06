@@ -61,13 +61,14 @@ server.use('/lista-combo', (req, res) => {
   return res.json(combo);
 });
 
-server.use('/lista-produtos-combo', (req, res) => {
+server.use('/lista-grupo-ativacao-produto', (req, res) => {
   return res.json(listaProdutosCombo);
 });
 
 server.listen(process.env.PORT || 3333, () => {
   console.log(
-    `⚡️[server]: Server is running at https://localhost:${process.env.PORT || 3333
+    `⚡️[server]: Server is running at https://localhost:${
+      process.env.PORT || 3333
     }`
   );
 });

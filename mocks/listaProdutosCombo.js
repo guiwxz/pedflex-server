@@ -1,5 +1,5 @@
 export const listaProdutosCombo = {
-  lista_produtos_combo: [
+  lista_grupo_ativacao_produto: [
     {
       cd_lista_transmissao: 671,
       qt_multiplo: 3,
@@ -286,7 +286,6 @@ export const listaProdutosCombo = {
       cd_marca: 22359813,
     },
 
-
     {
       cd_lista_transmissao: 671,
       qt_multiplo: 3,
@@ -294,12 +293,12 @@ export const listaProdutosCombo = {
       qt_venda_minima: 6,
       nr_ordem: '77690000',
       cd_grupo_produto: null,
-      nm_grupo_produto: 'PILHAS ALCALINASsssssssssssssssssssssssssssssssssssssssssssssssssssssssss',
+      nm_grupo_produto:
+        'PILHAS ALCALINASsssssssssssssssssssssssssssssssssssssssssssssssssssssssss',
       cd_grupo_filho: 0,
       nm_grupo_filho: '',
       cd_produto: 77690003748,
-      nm_produto:
-        'P6WEJR8EWJRIISTGFIEWSGIUSEUIWFGNDS',
+      nm_produto: 'P6WEJR8EWJRIISTGFIEWSGIUSEUIWFGNDS',
       ds_mascara: 77690003162,
       qt_logico: 84,
       ds_codigo_fornecedor: 'PILHA DURACELL obrigatorio mockado ',
@@ -361,7 +360,7 @@ export const listaProdutosCombo = {
     },
   ],
 
-  lista_negociacoes_combo: [
+  lista_grupo_ativacao_negociacao: [
     {
       cd_negociacao: 19221,
       ds_negociacao: 'Negociacao Combo Mockada 19221',
