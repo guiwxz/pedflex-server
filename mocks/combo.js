@@ -25,8 +25,8 @@ export const combo = {
           "dt_ativacao": "2024-07-26",
           "created_at": "2024-07-26T13:10:32",
           "updated_at": "2024-07-29T15:55:09",
-          "qt_comprado": 24,
-          "qt_comprado_plus": 24,
+          "qt_comprado": 10,
+          "qt_comprado_plus": 10,
           "qt_minima": 1000,
           "cd_categoria_combo": 1111,
           "id_contabiliza": 0
@@ -37,7 +37,7 @@ export const combo = {
           cd_categoria_combo: 1111,
           nm_categoria_combo: 'Categoria Mockada mais',
           pr_desconto: 5,
-          qt_minima: 1,
+          qt_minima: 20,
           ds_unidade_plus: null,
           grupos_ativacao: [
             {

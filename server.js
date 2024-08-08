@@ -10,7 +10,7 @@ import {
   ListaNegociacao,
   ListaNegociacao2,
 } from './mocks/lucasListaNegociacao.js';
-import { listaProdutosCombo } from './mocks/listaProdutosCombo.js';
+import { listaNegociacaoCombo, listaProdutosCombo } from './mocks/listaProdutosCombo.js';
 
 const server = express();
 
@@ -65,10 +65,14 @@ server.use('/lista-grupo-ativacao-produto', (req, res) => {
   return res.json(listaProdutosCombo);
 });
 
+
+server.use('/lista-grupo-ativacao-produto-negociacao', (req, res) => {
+  return res.json(listaNegociacaoCombo);
+});
+
 server.listen(process.env.PORT || 3333, () => {
   console.log(
-    `⚡️[server]: Server is running at https://localhost:${
-      process.env.PORT || 3333
+    `⚡️[server]: Server is running at https://localhost:${process.env.PORT || 3333
     }`
   );
 });

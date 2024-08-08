@@ -398,3 +398,60 @@ export const listaProdutosCombo = {
     },
   ],
 };
+
+export const listaNegociacaoCombo = {
+  "lista_negociacao_produto_ga": [
+    {
+      "cd_negociacao": 1294,
+      "ds_negociacao": "005 AGO24 DIA DOS PAIS",
+      "ds_negociacao_ecommerce": "005 AGO24 DIA DOS PAIS",
+      "cd_grupo": null,
+      "cd_produto": 77690005619,
+      "pr_desconto": null,
+      "vl_venda": null,
+      "vl_maximo_venda": null,
+      "id_libera_cliente_duplicado": 1,
+      "vl_investido": null,
+      "vl_investimento": null,
+      "qt_investido": 1,
+      "qt_investimento": 1,
+      "qt_minimo_itens": 1,
+      "id_obrigatorio": 0,
+      "cd_unidade_medida": 1,
+      "cd_unidade_desconto": null,
+      "id_bloqueia_desconto_unidade": 0,
+      "itens_obrigatorios": null,
+      "pr_dg": "0.00",
+      "pr_df": "17.38",
+      "qt_minima_unitaria": "1.00",
+      "qt_maxima_unitaria": null,
+      "vl_ordem": "82.6200000000000000000000000000000000000000"
+    },
+    {
+      "cd_negociacao": 1294,
+      "ds_negociacao": "005 AGO24 DIA DOS PAIS",
+      "ds_negociacao_ecommerce": "005 AGO24 DIA DOS PAIS",
+      "cd_grupo": null,
+      "cd_produto": 77690256589,
+      "pr_desconto": null,
+      "vl_venda": null,
+      "vl_maximo_venda": null,
+      "id_libera_cliente_duplicado": 1,
+      "vl_investido": null,
+      "vl_investimento": null,
+      "qt_investido": 1,
+      "qt_investimento": 1,
+      "qt_minimo_itens": 1,
+      "id_obrigatorio": 0,
+      "cd_unidade_medida": 1,
+      "cd_unidade_desconto": null,
+      "id_bloqueia_desconto_unidade": 0,
+      "itens_obrigatorios": null,
+      "pr_dg": "0.00",
+      "pr_df": "17.37",
+      "qt_minima_unitaria": "1.00",
+      "qt_maxima_unitaria": null,
+      "vl_ordem": "82.6300000000000000000000000000000000000000"
+    }
+  ]
+}
